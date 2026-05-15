@@ -1,0 +1,3 @@
+zahl = int(input("Zahl eingeben (0 zum Beenden): "))
+gesamt = zahl 
+while zahl 
